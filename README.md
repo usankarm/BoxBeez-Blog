@@ -38,20 +38,6 @@ Table of Contents
 * Google Fonts
 
 
-* * *
-
-### Demo
-
-Check the theme in action [Demo](https://zolan-jekyll.netlify.app/)
-
-![Main page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-main-page.png?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-post.png?raw=true)
-
-* * *
-
 ### Deployment
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
