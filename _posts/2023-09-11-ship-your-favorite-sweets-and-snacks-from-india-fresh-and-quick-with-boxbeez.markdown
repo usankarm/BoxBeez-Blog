@@ -28,7 +28,7 @@ Since 1982, Grand Sweets and Snacks have delighted thousands of customers with Q
 Three decades ago, a small sweet shop was started, in the metropolis of Chennai. This same shop has now flowered into multiple branches that dot the length and breadth of Chennai as well as its neighboring cities.  This shop needs no introduction to one that lived or visited Chennai. A2B sweets are both delicious and well packed. They can be easily shipped internationally as the sweets come in their own container. 
 
 
-![Aladipattiyan Halwakadai]({{site.baseurl}}/images/HalwaKadai.png)
+![Halwakadai]({{site.baseurl}}/images/Halwakadai.png)
 [Aladipattiyan Halwakadai](https://halwakadai.com/)
 
 Aladipattiyan Karuppati Koffe and Halwakadai is new sensation as this sweet chain brings the taste of Thirunelveli Halwa to other cities without compromising on quality. Aladipattiyan promises the authenticity of the recipe and makes them at the native soil and transport the products to each store. They offer combo packages of sweets and snacks if you want to try their products.
